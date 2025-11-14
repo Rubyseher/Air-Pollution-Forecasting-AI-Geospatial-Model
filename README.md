@@ -12,10 +12,6 @@ It uses **satellite data, ground-monitoring sensors, weather data, LULC, elevati
 To develop a **grid-based, 1 km × 1 km AI model** that predicts PM2.5 and PM10 across the study region using 5+ years of hourly satellite, weather, and ground-based data.
 
 ---
-Here is a **brief, safe, high-level README** that **does not reveal methodology, data sources, or anything others can copy**.
-You can paste this directly into GitHub.
-
----
 
 # 🌍 Air Pollution Forecasting – 1 km × 1 km Grid Project
 
