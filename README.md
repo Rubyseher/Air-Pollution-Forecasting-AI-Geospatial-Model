@@ -38,14 +38,3 @@ To develop a **grid-based, 1 km × 1 km AI model** that predicts PM2.5 and PM10 
 
 This is a **private research project**.
 Only **high-level descriptions** are shared here to avoid exposing proprietary data, methodology, or computational pipelines.
-
----
-
-## 🤝 Contributions
-
-Internal contributors only.
-For questions or support, please contact the project maintainer.
-
----
-
-If you want, I can make it even **shorter**, **more professional**, or **more aesthetic**.
