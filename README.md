@@ -1,4 +1,4 @@
-##🌍 *Near-real-time PM2.5 & PM10 prediction using Satellite, Weather & Ground sensor data*
+## 🌍 *Near-real-time PM2.5 & PM10 prediction using Satellite, Weather & Ground sensor data*
 
 ## 📌 **Project Aim**
 
