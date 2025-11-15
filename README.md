@@ -1,22 +1,8 @@
-🌍 **1 km × 1 km Air Pollution Forecasting (AI + Geospatial Model)**
-
-### *Near-real-time PM2.5 & PM10 prediction using Satellite, Weather & Ground sensor data*
-
-This repository contains the full workflow, code, and documentation for building a **geospatial AI model** that forecasts air pollution (PM2.5 & PM10) at a **1 km × 1 km resolution**.
-It uses **satellite data, ground-monitoring sensors, weather data, LULC, elevation, road density** and multiple urban-growth proxies to model spatio-temporal pollution patterns.
-
----
+###🌍 *Near-real-time PM2.5 & PM10 prediction using Satellite, Weather & Ground sensor data*
 
 ## 📌 **Project Aim**
 
 To develop a **grid-based, 1 km × 1 km AI model** that predicts PM2.5 and PM10 across the study region using 5+ years of hourly satellite, weather, and ground-based data.
-
----
-
-# 🌍 Air Pollution Forecasting – 1 km × 1 km Grid Project
-
-This repository contains code, scripts, and documentation for an internal project focused on **near real-time air-quality forecasting** at a **1 km × 1 km spatial resolution**.
-The work involves geospatial processing, data engineering, feature preparation, and AI-based prediction workflows.
 
 ---
 
